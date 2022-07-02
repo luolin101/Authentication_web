@@ -1,0 +1,12 @@
+.table__header-th {
+    user-select: none;
+
+}
+
+.table__header-th .content span {
+    cursor: pointer;
+}
+
+.table__header-th .content section {
+    cursor: pointer;
+}
